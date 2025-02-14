@@ -14,7 +14,7 @@ export default function Home() {
               Nativewind classes are working!
           </Text>
         <Link href={{ pathname: '/details', params: { name: 'Dan' } }} asChild>
-          <Button title="Show Details" />
+          <Button title="Show Details?" />
         </Link>
       </Container>
     </>
