@@ -3,6 +3,7 @@
     "name": "my-expo-app",
     "slug": "my-expo-app",
     "version": "1.0.0",
+    "newArchEnabled": true,
 
     "scheme": "my-expo-app",
     "web": {
