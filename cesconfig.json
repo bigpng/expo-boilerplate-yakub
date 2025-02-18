@@ -1,6 +1,6 @@
 {
   "cesVersion": "2.12.2",
-  "projectName": "my-expo-app",
+  "projectName": "rinzen",
   "packages": [
     {
       "name": "expo-router",

@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "my-expo-app",
-    "slug": "my-expo-app",
+    "name": "Rinzen",
+    "slug": "rinzen",
     "version": "1.0.0",
     "newArchEnabled": true,
-    "scheme": "my-expo-app",
+    "scheme": "rinzen",
     "web": {
       "bundler": "metro",
       "output": "static",
